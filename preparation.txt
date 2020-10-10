@@ -1,0 +1,27 @@
+ToDo's
+
+[]1. It must contain two HTML files.
+    ..index.html + article.html
+
+[]2. Must contain CSS style
+    a) Inline
+    b) Internal
+    c) External
+    d) At least you must apply 10 css rules
+       using different selectors
+
+[]3. It must contain algorithms in JavaScript:
+    a) Inline
+    b) Internal
+    c) External
+    d) At lest one event, its own function 
+       and a dialog box
+ 
+[]4. You Must make use of the main HTML tags 
+     mentioned on this document (HTML section)
+
+[]5. Add what you think is necessary
+
+[]6. Important to apply comments to the code
+
+[]7. Apply some HTML5 feature to the project
