@@ -9,20 +9,28 @@ a { color: inherit; }
 /*Fonts*/
 /*NotoSansJP*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;900&display=swap');
+/*LibreFranklin*/
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
 
 /*Header*/
 header {
     color: white;
-    width: 100%;
+    width: 90%;
+    display: flex;
+    margin: auto;
     height:60px;
+    align-items:center;
 }
 .innerHeader {
     width: 1000px;
-    height: 100%;
+    flex: 1;
     margin: 0 auto;
 }
 /*Logo*/
-.logo { float:left;}
+.logo { 
+    float:left;
+    flex: 1;
+}
 .logo h1 {
     font-family: 'NotoSansJP', sans-serif;
     color: black;
@@ -37,5 +45,14 @@ header {
 /*Navigation Bar*/
 .navibar {
     color: black;
-    flex: 1;
+    flex: 2;
+}
+.navibar ul {
+    display:flex;
+    font-family: 'LibreFranklin', sans-serif;
+    font-size:16px;
+    margin: 5px;
+}
+.navilinks {
+    justify-content: space-around;
 }
