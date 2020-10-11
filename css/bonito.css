@@ -14,15 +14,15 @@ a { color: inherit; }
 
 /*Header*/
 header {
+    background-color:black;
     color: white;
-    width: 90%;
     display: flex;
     margin: auto;
     height:60px;
     align-items:center;
 }
 .innerHeader {
-    width: 1000px;
+    padding: 60px;
     flex: 1;
     margin: 0 auto;
 }
@@ -33,7 +33,7 @@ header {
 }
 .logo h1 {
     font-family: 'NotoSansJP', sans-serif;
-    color: black;
+    color: white;
     font-style:italic;
     font-weight:250;
 }
@@ -44,13 +44,13 @@ header {
 }
 /*Navigation Bar*/
 .navibar {
-    color: black;
+    color: white;
     flex: 2;
 }
 .navibar ul {
     display:flex;
     font-family: 'LibreFranklin', sans-serif;
-    font-size:16px;
+    font-size:20px;
     margin: 5px;
 }
 .navilinks {
