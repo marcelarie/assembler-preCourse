@@ -1,5 +1,9 @@
-ToDo's
+Inspiration
+https://www.washingtonpost.com/
 
+Resources
+
+Requirements
 []1. It must contain two HTML files.
     ..index.html + article.html
 
@@ -20,8 +24,62 @@ ToDo's
 []4. You Must make use of the main HTML tags 
      mentioned on this document (HTML section)
 
+    []html,[]body,[]head,[]title,[]div,[]h1-h4,[]span,[]meta,[]style,[]script
+    []img,[]ul,[]ol,[]li,[]a,[]br,[]table,[]tr,[]td,[]form,[]label,[]input,[]select,
+    []textarea
+
 []5. Add what you think is necessary
 
 []6. Important to apply comments to the code
 
 []7. Apply some HTML5 feature to the project
+
+My ToDo's
+
+index.html
+[] Header
+    [] Long Black Bar
+    [] Logo 
+    [] Make it sticky to the top
+    [] 
+[] Space Margin
+[] Article zone
+    [] Main article 
+    [] Photo
+    [] Text on top of the photo
+    [] Other News 
+[] Footer
+    [] Terms of use
+    [] Help
+    [] Contact
+
+article.html
+[] Same header as index.html
+[] Title
+[] Main photo 
+[] Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
