@@ -2,7 +2,8 @@ Inspiration
 https://www.washingtonpost.com/
 
 Resources
-
+Sticky Header
+https://www.youtube.com/watch?v=NzjU1GmKosQ&t=330s
 Requirements
 [X]1. It must contain two HTML files.
     ..index.html + article.html
