@@ -5,3 +5,37 @@
     list-style: none;
     text-decoration: none;
 }
+a { color: inherit; }
+/*Fonts*/
+/*NotoSansJP*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;900&display=swap');
+
+/*Header*/
+header {
+    color: white;
+    width: 100%;
+    height:60px;
+}
+.innerHeader {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+}
+/*Logo*/
+.logo { float:left;}
+.logo h1 {
+    font-family: 'NotoSansJP', sans-serif;
+    color: black;
+    font-style:italic;
+    font-weight:250;
+}
+.logo h1 span {
+    font-family: 'NotoSansJP', sans-serif;
+    font-style: normal;
+    font-weight:750;
+}
+/*Navigation Bar*/
+.navibar {
+    color: black;
+    flex: 1;
+}
