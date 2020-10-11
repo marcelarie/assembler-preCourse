@@ -24,8 +24,8 @@ Requirements
 []4. You Must make use of the main HTML tags 
      mentioned on this document (HTML section)
 
-    []html,[]body,[]head,[]title,[]div,[]h1-h4,[]span,[]meta,[]style,[]script
-    []img,[]ul,[]ol,[]li,[]a,[]br,[]table,[]tr,[]td,[]form,[]label,[]input,[]select,
+    [X]html,[X]body,[X]head,[]title,[X]div,[X]h1-h4,[X]span,[X]meta,[]style,[]script
+    [X]img,[X]ul,[]ol,[X]li,[X]a,[]br,[]table,[]tr,[]td,[]form,[]label,[]input,[]select,
     []textarea
 
 []5. Add what you think is necessary
