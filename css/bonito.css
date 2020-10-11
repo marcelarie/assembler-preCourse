@@ -1,4 +1,4 @@
-/*Reset*/
+/*reset*/
 * {
     margin: 0;
     padding: 0;
@@ -6,13 +6,13 @@
     text-decoration: none;
 }
 a { color: inherit; }
-/*Fonts*/
-/*NotoSansJP*/
+/*fonts*/
+/*notoSansJP*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;900&display=swap');
-/*LibreFranklin*/
+/*libreFranklin*/
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
 
-/*Header*/
+/*header*/
 header {
     background-color:black;
     color: white;
@@ -26,7 +26,7 @@ header {
     flex: 1;
     margin: 0 auto;
 }
-/*Logo*/
+/*logo*/
 .logo { 
     float:left;
     flex: 1;
@@ -42,7 +42,7 @@ header {
     font-style: normal;
     font-weight:750;
 }
-/*Navigation Bar*/
+/*navigation Bar*/
 .navibar {
     color: white;
     flex: 2;
@@ -56,3 +56,19 @@ header {
 .navilinks {
     justify-content: space-around;
 }
+/*main*/
+main {
+    margin-top: 10%;
+    margin-left: 20%;
+    justify-content: center;
+}
+.mainBlock {
+    justify-content: center;
+}
+/*article*/
+.article {
+    float: left;
+    
+}
+/*asideArticles*/
+aside { float: right;} 

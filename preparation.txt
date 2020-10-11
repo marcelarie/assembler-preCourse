@@ -4,7 +4,7 @@ https://www.washingtonpost.com/
 Resources
 
 Requirements
-[]1. It must contain two HTML files.
+[X]1. It must contain two HTML files.
     ..index.html + article.html
 
 []2. Must contain CSS style
@@ -37,16 +37,16 @@ Requirements
 My ToDo's
 
 index.html
-[] Header
-    [] Long Black Bar
-    [] Logo 
+[X] Header
+    [x] Long Black Bar
+    [x] Logo 
     [] Make it sticky to the top
     [] 
 [] Space Margin
 [] Article zone
     [] Main article 
-    [] Photo
-    [] Text on top of the photo
+    [X] Photo
+    [X] Text on top of the photo
     [] Other News 
 [] Footer
     [] Terms of use
@@ -57,7 +57,7 @@ article.html
 [] Same header as index.html
 [] Title
 [] Main photo 
-[] Text
+[X] Text
 
 
 
