@@ -17,7 +17,6 @@ a { color: inherit; }
 /*responsive*/
 .img-responsive {
     width:100%;
-    margin-bottom: 2em;
     margin-top: 1em;
     height:auto;
 }
@@ -58,8 +57,6 @@ header {
     color: white;
     flex: 2;
 }
-nav { 
-}
 .navibar ul {
     display:flex;
     font-family: 'LibreFranklin', sans-serif;
@@ -76,8 +73,7 @@ main {
     margin-top: 10%;
     margin-right: auto;
 }
-.mainBlock h2 {
-    font-family: 'Playfair Display', serif;
+.mainBlock h2 { font-family: 'Playfair Display', serif;
     font-size: 2em;
 }
 .mainBlock h3 {
@@ -90,15 +86,25 @@ main {
     margin-bottom: 1em;
     line-height: 1.75;
 }
+.text-img {
+    background-color: #282828;
+    font-size: 0.70rem;
+    padding: 0.25em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center ;
+    line-height: 1.75;
+    color:white;
+}
 /*article*/
 .article {
     float: left;
 }
-.article img {
-}
 /*asideArticles*/
 aside {
-    float:right;
+    position: fixed;
+    background-color: red;
+    padding: 0;
+    width: 200px;
 }
 /*footer*/
 footer {
