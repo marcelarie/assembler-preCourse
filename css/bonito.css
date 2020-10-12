@@ -47,6 +47,8 @@ header {
     color: white;
     flex: 2;
 }
+nav { 
+}
 .navibar ul {
     display:flex;
     font-family: 'LibreFranklin', sans-serif;
@@ -68,7 +70,8 @@ main {
 /*article*/
 .article {
     float: left;
-    
 }
 /*asideArticles*/
-aside { float: right;} 
+aside {
+
+}
