@@ -17,6 +17,8 @@ a { color: inherit; }
 /*responsive*/
 .img-responsive {
     width:100%;
+    margin-bottom: 2em;
+    margin-top: 1em;
     height:auto;
 }
 /*header*/
@@ -78,9 +80,15 @@ main {
     font-family: 'Playfair Display', serif;
     font-size: 2em;
 }
+.mainBlock h3 {
+    font-size: 1.65em;
+    margin-bottom: 1em;
+}
 .mainBlock p {
     font-size: 1.125rem;
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 1em;
+    line-height: 1.75;
 }
 /*article*/
 .article {
@@ -91,4 +99,18 @@ main {
 /*asideArticles*/
 aside {
     float:right;
+}
+/*footer*/
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #282828;
+    color: white;
+    font-family: 'LibreFranklin', sans-serif;
+    font-size: 0.55em;
+    padding: 1em;
+}
+footer p {
+    text-align: center;
 }

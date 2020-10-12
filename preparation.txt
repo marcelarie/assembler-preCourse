@@ -8,7 +8,7 @@ Requirements
 [X]1. It must contain two HTML files.
     ..index.html + article.html
 
-[]2. Must contain CSS style
+[X]2. Must contain CSS style
     a) Inline
     b) Internal
     c) External
@@ -29,9 +29,9 @@ Requirements
     [X]img,[X]ul,[]ol,[X]li,[X]a,[]br,[]table,[]tr,[]td,[]form,[]label,[]input,[]select,
     []textarea
 
-[]5. Add what you think is necessary
+[X]5. Add what you think is necessary
 
-[]6. Important to apply comments to the code
+[X]6. Important to apply comments to the code
 
 []7. Apply some HTML5 feature to the project
 
@@ -39,25 +39,22 @@ My ToDo's
 
 index.html
 [X] Header
-    [x] Long Black Bar
-    [x] Logo 
-    [] Make it sticky to the top
+    [X] Long Black Bar
+    [X] Logo 
+    [X] Make it sticky to the top
     [] 
-[] Space Margin
+[X] Space Margin
 [] Article zone
-    [] Main article 
+    [X] Main article 
     [X] Photo
     [X] Text on top of the photo
-    [X] Other News 
-[] Footer
-    [] Terms of use
-    [] Help
-    [] Contact
+    [] Other News 
+[X] Footer
 
 article.html
-[] Same header as index.html
-[] Title
-[] Main photo 
+[X] Same header as index.html
+[X] Title
+[X] Main photo 
 [X] Text
 
 
