@@ -48,7 +48,7 @@ index.html
     [] Main article 
     [X] Photo
     [X] Text on top of the photo
-    [] Other News 
+    [X] Other News 
 [] Footer
     [] Terms of use
     [] Help
