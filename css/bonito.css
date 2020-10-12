@@ -11,8 +11,10 @@ a { color: inherit; }
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;900&display=swap');
 /*libreFranklin*/
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
+/*playfairDisplay*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&display=swap');
 
-/*Responsive*/
+/*responsive*/
 .img-responsive {
     width:100%;
     height:auto;
@@ -72,7 +74,13 @@ main {
     margin-top: 10%;
     margin-right: auto;
 }
-.mainBlock {
+.mainBlock h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+}
+.mainBlock p {
+    font-size: 1.125rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 /*article*/
 .article {
@@ -82,5 +90,5 @@ main {
 }
 /*asideArticles*/
 aside {
-
+    float:right;
 }
