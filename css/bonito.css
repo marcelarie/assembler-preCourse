@@ -20,6 +20,7 @@ a { color: inherit; }
     margin-top: 1em;
     height:auto;
 }
+
 /*header*/
 header {
     background-color:black;
@@ -29,7 +30,7 @@ header {
     width: 100%;
     top:0;
     position:fixed;
-    height:60px;
+    height:3.5em;
     align-items:center;
 }
 .innerHeader {
@@ -74,22 +75,22 @@ main {
     margin-right: auto;
 }
 .mainBlock h2 { font-family: 'Playfair Display', serif;
-    font-size: 2em;
+    font-size: 2.5vw;
 }
 .mainBlock h3 {
-    font-size: 1.65em;
-    margin-bottom: 1em;
+    font-size: 1.65vw;
+    margin-bottom: 1vw;
 }
 .mainBlock p {
-    font-size: 1.125rem;
+    font-size: 1.325vw;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 1em;
+    margin-bottom: 1vw;
     line-height: 1.75;
 }
 .text-img {
     background-color: #282828;
-    font-size: 0.70rem;
-    padding: 0.25em;
+    font-size: 0.70vw;
+    padding: 0.25vw;
     font-family: 'Times New Roman', Times, serif;
     text-align:center ;
     line-height: 1.75;
@@ -104,7 +105,6 @@ aside {
     position: fixed;
     background-color: red;
     padding: 0;
-    width: 200px;
 }
 /*footer*/
 footer {
@@ -114,9 +114,14 @@ footer {
     background-color: #282828;
     color: white;
     font-family: 'LibreFranklin', sans-serif;
-    font-size: 0.55em;
+    font-size: 0.65vw;
     padding: 1em;
 }
 footer p {
     text-align: center;
+}
+
+/*mediaQueries*/
+@media (max-width:768px){
+  .mainBlock p {color: red;}
 }

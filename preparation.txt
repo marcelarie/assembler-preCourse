@@ -1,10 +1,21 @@
-Inspiration
+╦┌┐┌┌─┐┌─┐┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
+║│││└─┐├─┘│├┬┘├─┤ │ ││ ││││
+╩┘└┘└─┘┴  ┴┴└─┴ ┴ ┴ ┴└─┘┘└┘
 https://www.washingtonpost.com/
 
-Resources
+╦═╗┌─┐┌─┐┌─┐┬ ┬┬─┐┌─┐┌─┐┌─┐
+╠╦╝├┤ └─┐│ ││ │├┬┘│  ├┤ └─┐
+╩╚═└─┘└─┘└─┘└─┘┴└─└─┘└─┘└─┘
 Sticky Header
 https://www.youtube.com/watch?v=NzjU1GmKosQ&t=330s
-Requirements
+
+Media Queries not working 
+    Hard to understand as you have not provided the code..but the common mistake people do it by not adding this meta data
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+╦═╗┌─┐┌─┐ ┬ ┬┬┬─┐┌─┐┌┬┐┌─┐┌┐┌┌┬┐┌─┐
+╠╦╝├┤ │─┼┐│ ││├┬┘├┤ │││├┤ │││ │ └─┐
+╩╚═└─┘└─┘└└─┘┴┴└─└─┘┴ ┴└─┘┘└┘ ┴ └─┘
 [X]1. It must contain two HTML files.
     ..index.html + article.html
 
@@ -35,8 +46,9 @@ Requirements
 
 []7. Apply some HTML5 feature to the project
 
-My ToDo's
-
+╔╦╗┌─┐  ╔╦╗┌─┐
+ ║ │ │   ║║│ │
+ ╩ └─┘  ═╩╝└─┘
 index.html
 [X] Header
     [X] Long Black Bar
