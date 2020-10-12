@@ -18,11 +18,13 @@ header {
     color: white;
     display: flex;
     margin: auto;
+    top: 0;
+    width: 100%;
+    position:fixed;
     height:60px;
     align-items:center;
 }
 .innerHeader {
-    padding: 60px;
     flex: 1;
     margin: 0 auto;
 }
@@ -60,16 +62,14 @@ nav {
 }
 /*main*/
 main {
-    margin-top: 10%;
-    margin-left: 20%;
-    justify-content: center;
 }
 .mainBlock {
-    justify-content: center;
 }
 /*article*/
 .article {
     float: left;
+}
+.article img {
 }
 /*asideArticles*/
 aside {
