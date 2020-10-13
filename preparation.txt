@@ -29,8 +29,8 @@ https://stackoverflow.com/questions/13973833/how-to-set-one-css-rule-for-two-tag
 [X]2. Must contain CSS style
     a) Inline
     b) Internal
-    c) External
-    d) At least you must apply 10 css rules
+    [x]c) External
+    [x]d) At least you must apply 10 css rules
        using different selectors
 
 []3. It must contain algorithms in JavaScript:
@@ -44,14 +44,14 @@ https://stackoverflow.com/questions/13973833/how-to-set-one-css-rule-for-two-tag
      mentioned on this document (HTML section)
 
     [X]html,[X]body,[X]head,[]title,[X]div,[X]h1-h4,[X]span,[X]meta,[]style,[]script
-    [X]img,[X]ul,[]ol,[X]li,[X]a,[]br,[]table,[]tr,[]td,[]form,[]label,[]input,[]select,
+    [X]img,[X]ul,[]ol,[X]li,[X]a,[]br,[]table,[]tr,[]td,[X]form,[]label,[]input,[]select,
     []textarea
 
 [X]5. Add what you think is necessary
 
 [X]6. Important to apply comments to the code
 
-[]7. Apply some HTML5 feature to the project
+[X]7. Apply some HTML5 feature to the project
 
 ╔╦╗┌─┐  ╔╦╗┌─┐
  ║ │ │   ║║│ │
@@ -61,14 +61,13 @@ index.html
     [X] Long Black Bar
     [X] Logo 
     [X] Make it sticky to the top
-    [] 
 [X] Space Margin
-[] Article zone
+[X] Article zone
     [X] Main article 
     [X] Photo
     [X] Text on top of the photo
-    [] Other News 
-        [] Use the <figure> tag
+    [X] Other News 
+        [X] Use the <figure> tag
 [X] Footer
 
 article.html
