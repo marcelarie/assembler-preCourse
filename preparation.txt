@@ -13,6 +13,11 @@ Media Queries not working
     Hard to understand as you have not provided the code..but the common mistake people do it by not adding this meta data
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+Side News Menu
+https://www.youtube.com/watch?v=nAElPF2bkPY
+HTML5 solution :D
+https://stackoverflow.com/a/24292602/14133028
+
 ╦═╗┌─┐┌─┐ ┬ ┬┬┬─┐┌─┐┌┬┐┌─┐┌┐┌┌┬┐┌─┐
 ╠╦╝├┤ │─┼┐│ ││├┬┘├┤ │││├┤ │││ │ └─┐
 ╩╚═└─┘└─┘└└─┘┴┴└─└─┘┴ ┴└─┘┘└┘ ┴ └─┘
@@ -61,6 +66,7 @@ index.html
     [X] Photo
     [X] Text on top of the photo
     [] Other News 
+        [] Use the <figure> tag
 [X] Footer
 
 article.html

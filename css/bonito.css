@@ -73,9 +73,10 @@ main {
     margin-left: auto;
     margin-top: 10%;
     margin-right: auto;
+    margin-bottom: 20%;
 }
-.mainBlock h2 { font-family: 'Playfair Display', serif;
-    font-size: 2.5vw;
+.mainBlock { display: flex;}
+.mainBlock h2 { font-family: 'Playfair Display', serif; font-size: 2.5vw;
 }
 .mainBlock h3 {
     font-size: 1.65vw;
@@ -99,13 +100,9 @@ main {
 /*article*/
 .article {
     float: left;
+    width: 70%;
 }
 /*asideArticles*/
-aside {
-    position: fixed;
-    background-color: red;
-    padding: 0;
-}
 /*footer*/
 footer {
     position: fixed;
@@ -119,6 +116,19 @@ footer {
 }
 footer p {
     text-align: center;
+}
+/*side-news*/
+.side-news {
+    float: right;
+    width: 30%;
+    flex-grow: 1;
+    margin-left: 2em;
+    margin-bottom: 2em;
+}
+.side-news figcaption {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2vw;
+    font-weight: bold;
 }
 
 /*mediaQueries*/
