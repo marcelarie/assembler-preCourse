@@ -17,6 +17,8 @@ Side News Menu
 https://www.youtube.com/watch?v=nAElPF2bkPY
 HTML5 solution :D
 https://stackoverflow.com/a/24292602/14133028
+Just to be sure...
+https://stackoverflow.com/questions/13973833/how-to-set-one-css-rule-for-two-tags
 
 ╦═╗┌─┐┌─┐ ┬ ┬┬┬─┐┌─┐┌┬┐┌─┐┌┐┌┌┬┐┌─┐
 ╠╦╝├┤ │─┼┐│ ││├┬┘├┤ │││├┤ │││ │ └─┐

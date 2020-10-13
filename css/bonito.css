@@ -133,5 +133,30 @@ footer p {
 
 /*mediaQueries*/
 @media (max-width:768px){
-  .mainBlock p {color: red;}
+    .mainBlock p, 
+    .mainBlock h2 {
+      font-size:large;
+    }
+    footer p {
+        font-size: 2.5vw;
+    }
+    .side-news figcaption {
+        font-size: medium;    
+    }
+    .mainBlock img {
+        width: 100%;
+    }
+    .side-news {
+        flex-grow: 0;
+        width: 100%;
+    }
+    main {
+        max-width: 90%;
+    }
+    .mainBlock {
+        display: block;
+    }
+    body {
+        margin-top: 30%;
+    }
 }
